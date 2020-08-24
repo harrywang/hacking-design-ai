@@ -19,3 +19,11 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 The notebooks will be opened inside VSCode using the virtual environment with Jupyter Notebook. 
+
+## Download data and models:
+
+Google drive:https://drive.google.com/drive/folders/1nXBdIPE64ZaTCF76iJD_PDn-N5zErz1M?usp=sharing
+
+Baidu cloud: https://pan.baidu.com/s/1Je0KkclOtnpxlVFoC8G9ew  password: t6cs
+
+Place them under "notebook/"
